@@ -1,6 +1,6 @@
 ## FAULTY-TEEN
 
-[Activity Snake](https://github.com/faulty-teen/faulty-teen/blob/main/snake.svg)
+[!][Activity Snake](https://github.com/faulty-teen/faulty-teen/blob/main/snake.svg)
 
 [My Stats](https://github-readme-stats.vercel.app/api/?username=faulty-teen&count_private=true&theme=tokyonight&showicons=true)
 
